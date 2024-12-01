@@ -10,9 +10,9 @@ x to return to title screen.
 
 Run/Stop to exit game.
 
-Keyboard: Player 1 use keys WASD and space bar
+Keyboard:
+          Player 1 use keys WASD and space bar
 
           Player 2 use keys IJKL and ;
 
           Player 3 use keys cursor up/left/down/right and /
-
